@@ -1,0 +1,9 @@
+ArbitrageLab has been open-sourced!
+
+ArbitrageLab Python library: https://github.com/hudson-and-thames/arbitragelab
+
+Documentation: https://hudson-and-thames-arbitragelab.readthedocs-hosted.com/en/latest/
+
+Notebooks: https://github.com/hudson-and-thames/arbitrage_research
+
+PyPi: https://pypi.org/project/arbitragelab/
